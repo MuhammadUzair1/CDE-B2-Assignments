@@ -1,34 +1,1634 @@
-Name,Author,Publisher,LowPrice,HighPrice,ISBN,Qulity Description,
-Nineteen Eighty-Four,George Orwell,Berkley,6.69,229.49,0452262933,Very Good
+Name,Author,Publisher,LowPrice,HighPrice,ISBN,QualityDescription
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
 Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
 To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
-Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
 The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
-Animal Farm: A Fairy Story,George Orwell,Signet Book,4.99,306.09,0451526341,Acceptable
-The Alchemist,Paulo Coelho,HarperOne,4.99,190.89,0062315005,Good
-Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
 Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
 The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
 Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
 It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
 The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
 Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
 The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
 How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
-The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Good
-Verity,Colleen Hoover,Grand Central Publishing,5.69,396.69,1538724731,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
 Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
 Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
 The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
 Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
 Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
 Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
 The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
-Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.29,94.29,1338878972,Good
 All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
-The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
 Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
-Man's Search for Meaning,Viktor E. Frankl,Beacon Press,6.19,95.99,0807014273,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
 The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
 Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
 Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
@@ -37,15 +1637,415 @@ Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
 Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
 The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
 The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
-The Nightingale,Kristin Hannah,St. Martin's Griffin,7.79,70.79,1250080401,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
 Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
 Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
 It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
 Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
 Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
 Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
-One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
 Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
 How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
 The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
-Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Acceptable
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Acceptable
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Acceptable
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Acceptable
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Acceptable
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Acceptable
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Acceptable
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Acceptable
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
+Nineteen Eighty-Four,George Orwell,Everyman's Library,5.79,229.49,0679417397,Acceptable
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic Inc.,3.59,299.79,1338878921,Good
+To Kill a Mockingbird,Harper Lee,Harper,4.29,528.39,0062420704,Good
+The Hunger Games,Suzanne Collins,Scholastic Press,4.19,51.39,0439023521,Good
+Fahrenheit 451,Ray Bradbury,Simon & Schuster,4.79,106.89,1451673310,Good
+The Alchemist,Paulo Coelho,HarperOne,4.89,190.89,0062315005,Good
+Animal Farm: A Fairy Story,George Orwell,Signet Book,6.09,306.09,0451526341,Acceptable
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Scholastic,3.59,96.69,0439064864,Good
+Where the Crawdads Sing,Delia Owens,G.P. Putnam's Sons,4.19,39.59,0735219109,Good
+It Ends with Us,Colleen Hoover,Atria Books,4.49,53.78,1501110365,Good
+The Four Agreements: A Practical Guide to Personal Freedom, A Toltec Wisdom Book,Miguel Ruiz,Amber-Allen Publishing,5.39,65.39,1878424319,Good
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Scholastic,4.19,141.99,0439136350,Good
+Catching Fire,Suzanne Collins,Scholastic Press,3.59,48.79,0545586178,Good
+The Handmaid's Tale,Margaret Atwood,Vintage,7.69,81.49,038549081X,Good
+The Hobbit,J.R.R. Tolkien,William Morrow & Company,3.99,128.48,0544174224,Good
+The Great Gatsby,F. Scott Fitzgerald,Pocket Books,3.59,231.79,1982146702,Acceptable
+How to Win Friends and Influence People,Dale Carnegie,Pocket Books,4.79,234.99,0671027034,Good
+Mockingjay,Suzanne Collins,Scholastic Press,3.99,90.29,0545663261,Acceptable
+Verity,Colleen Hoover,Grand Central Publishing,5.59,396.69,1538724731,Good
+Harry Potter and the Goblet of Fire,J.K. Rowling,Scholastic Inc.,3.99,187.19,1338878956,Good
+Charlotte's Web,E.B. White,HarperCollins,4.19,184.49,0064400557,Good
+Harry Potter and the Deathly Hallows,J.K. Rowling,Scholastic Inc.,3.99,405.09,1338878980,Acceptable
+The Giver,Lois Lowry,Clarion Books,4.39,31.69,0544336267,Good
+Pride and Prejudice,Jane Austen,Chronicle Books,3.59,310.49,1452184577,Very Good
+Harry Potter and the Half-Blood Prince,J.K. Rowling,Scholastic Inc.,4.19,94.29,1338878972,Good
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Atria Books,5.99,62.33,1501161938,Good
+All the Light We Cannot See,Anthony Doerr,Scribner Book Company,4.39,70.88,1501173219,Good
+Green Eggs and Ham,Dr. Seuss,Random House Books for Young Readers,3.59,69.29,0375810889,Good
+The Lion, the Witch and the Wardrobe,C.S. Lewis,HarperCollins,3.89,73.89,0064404994,Good
+Man's Search for Meaning,Viktor E. Frankl,Beacon Press,5.79,95.99,0807014273,Good
+The Book Thief,Markus Zusak,Alfred A. Knopf Books for Young Readers,4.49,114.89,0375842209,Good
+Twilight,Stephenie Meyer,Little, Brown Books for Young Readers,3.99,39.19,0316327336,Good
+Oh, the Thinks You Can Think!,Dr. Seuss,Random House Books for Young Readers,3.59,54.89,037585794X,Good
+Educated,Tara Westover,Random House,4.19,42.89,0399590501,Good
+Lord of the Flies,William Golding,Penguin Books,3.99,134.49,0140283331,Good
+Anne Frank: The Diary of a Young Girl,Anne Frank,Maple Press Pvt Ltd,4.39,133.69,9350332108,Very Good
+The Silent Patient,Alex Michaelides,Celadon Books,5.79,37.99,125030170X,Good
+The Power of Now: A Guide to Spiritual Enlightenment,Eckhart Tolle,New World Library,4.99,56.49,1577311523,Good
+The Nightingale,Kristin Hannah,St. Martin's Griffin,7.39,70.79,1250080401,Good
+Before We Were Yours,Lisa Wingate,Ballantine Books,4.19,55.29,0425284700,Good
+Brave New World,Aldous Huxley,Harper Perennial,4.09,78.69,0060850523,Good
+It Starts with Us,Colleen Hoover,Atria Books,4.69,51.06,1668001225,Good
+Mere Christianity,C.S. Lewis,Harper San Francisco,4.39,169.59,0060652926,Good
+Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J.D. Vance,Harper Paperbacks,5.39,37.39,0062300555,Good
+Wuthering Heights,Emily Brontë,Penguin Classics,3.69,571.39,0141439556,Good
+Rich Dad, Poor Dad,Robert T. Kiyosaki,Plata Publishing,3.99,99.79,1612681131,Good
+One Fish, Two Fish, Red Fish, Blue Fish,Dr. Seuss,Random House Books for Young Readers,3.59,35.99,0394800133,Good
+How the Grinch Stole Christmas!,Dr. Seuss,Random House Books for Young Readers,3.99,235.59,0593434382,Good
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Arthur A. Levine Books,4.39,80.09,043935806X,Good
+The Lightning Thief,Rick Riordan,Disney-Hyperion,3.59,34.59,0786838655,Good
